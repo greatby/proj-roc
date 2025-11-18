@@ -36,12 +36,12 @@ export default function ContactPage() {
             <div className="mt-10 space-y-8 text-sm text-slate-700">
               <div>
                 <h4 className="text-slate-900 font-medium text-base">Email</h4>
-                <p className="mt-1 text-slate-600">support@corpconsult.com</p>
+                <p className="mt-1 text-slate-600">hello@epfdesk.com</p>
               </div>
 
               <div>
                 <h4 className="text-slate-900 font-medium text-base">Phone / WhatsApp</h4>
-                <p className="mt-1 text-slate-600">+91 98765 43210</p>
+                <p className="mt-1 text-slate-600">+919945933333</p>
               </div>
 
               <div>

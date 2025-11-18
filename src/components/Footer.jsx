@@ -32,8 +32,8 @@ export default function Footer() {
         <div>
           <h5 className="text-white font-medium mb-3">Contact</h5>
           <ul className="space-y-2 text-sm">
-            <li>Email: support@corpconsult.com</li>
-            <li>Phone: +91 98765 43210</li>
+            <li>Email: hello@epfdesk.com</li>
+            <li>Phone: +919945933333</li>
             <li>Bangalore, India</li>
           </ul>
         </div>
