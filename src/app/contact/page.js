@@ -52,9 +52,9 @@ export default function ContactPage() {
               <div>
                 <h4 className="text-slate-900 font-medium text-base">Office Address</h4>
                 <p className="mt-1 text-slate-600 leading-relaxed">
-                  CorpConsult India Pvt Ltd
-                  <br /> 4th Floor, MG Road
-                  <br /> Bangalore, India – 560001
+                  62/63 Church Street
+                  <br /> Bengaluru
+                  <br /> Karnataka, 560001
                 </p>
               </div>
             </div>
