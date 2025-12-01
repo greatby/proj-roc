@@ -1,6 +1,3 @@
-// PRICING PAGE (McKinsey/Deloitte Corporate Style)
-// File: app/pricing/page.jsx
-// Tailwind CSS Only — Clean, Premium, Consulting-Grade UI
 
 import HeadMeta from "@/components/HeadMeta";
 import Link from "next/link";

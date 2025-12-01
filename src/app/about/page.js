@@ -1,7 +1,3 @@
-// ABOUT PAGE (McKinsey/Deloitte Corporate Style)
-// File: app/about/page.jsx
-// Tailwind CSS Only — Premium Consulting UI
-
 import HeadMeta from "@/components/HeadMeta";
 import Image from "next/image";
 

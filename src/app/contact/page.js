@@ -1,7 +1,3 @@
-// CONTACT PAGE (McKinsey/Deloitte Corporate Style)
-// File: app/contact/page.jsx
-// Tailwind CSS Only — Clean, Premium Corporate UI
-
 import HeadMeta from "@/components/HeadMeta";
 import Image from "next/image";
 
